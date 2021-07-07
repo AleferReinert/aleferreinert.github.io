@@ -2,9 +2,12 @@
 
 ## E-Commerce 
 
-O projeto abaixo é uma demonstração de front-end de um e-commerce responsivo.
+Desenvolvi o projeto abaixo para uma apresentação do meu trabalho de front-end. Se trata de um e-commerce responsivo, onde foram desenvolvidas as seguintes páginas:
+* Home
+* Login
+* Lista de produtos (categorias)
 
-Link: [E-Commerce - Demonstração](https://e-commerce-portifolio.000webhostapp.com/)
+Link: [E-commerce responsivo](https://e-commerce-portifolio.000webhostapp.com/)
 
 ### Ferramentas, linguagens e plugins utilizados
 
