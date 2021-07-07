@@ -1,6 +1,8 @@
-## Desenvolvedor front-end
+# Meu Portifólio
 
-Segue abaixo meu projeto de e-commerce.
+## E-Commerce 
+
+O projeto abaixo é uma demonstração de front-end de um e-commerce responsivo.
 
 Link: [E-Commerce - Demonstração](https://e-commerce-portifolio.000webhostapp.com/)
 
